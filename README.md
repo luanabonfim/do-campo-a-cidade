@@ -5,3 +5,4 @@
 ##### museu_casa_gabriel_e_luiza_pilati_-_turvo_imagem_gralha_azul_turismo_e_aventura.jpg disponível em:https://www.viajeparana.com/Turvo
 ###### turvo1.jpj disponível em: https://www.paranaturismo.com.br/turvo/
 ###### texto sobre o turvo disponivel em: https://www.turvo.pr.gov.br/
+###### desenvolvido por: Luana Bonfim 
